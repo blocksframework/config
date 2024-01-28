@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Blocks\\Data\\":"src/class"
+            "Blocks\\Config\\":"src/class"
         }
     },
     "authors": [

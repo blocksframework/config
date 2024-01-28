@@ -1,0 +1,24 @@
+{
+    "name": "blocksframework/config",
+    "description": "A class used to provide functionality for storing config key/value records for a Blocks module",
+    "license": "MIT",
+    "keywords": [
+        "blocks",
+        "PHP framework",
+        "config"
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blocks\\Data\\":"src/class"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephen Stephenson",
+            "email": "stephenson.inbox@gmail.com"
+        }
+    ]
+}
